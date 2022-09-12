@@ -118,10 +118,11 @@ input.entrar{
    display:block;
    margin: auto;
    margin-top: 10px;
-   width:60% ;
+   width:65% ;
    border-radius: 10px;
    font-family:'Nunito', sans-serif;
    color: var(--cor3);
+   
     
     
 }
